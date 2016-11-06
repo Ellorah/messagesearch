@@ -1,0 +1,18 @@
+{git init
+  "name": "messagesearch",
+  "description": "Search for messages by place, date or time.",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/github"
+    }
+  ]
+}
